@@ -5,7 +5,7 @@ print('- - INSTALLATION SCRIPT FOR THE CUSTOS - - ')
 #Tag Value you want to track the costs
 #These tags should be set as string divided by comma ','
 #Ex: tags = ['PROJECT1', 'PROJECT2', ...]
-tags = ["KAROO","EZOOP", "IMMOBILE", "NOVA_PACKWEB/LDADM/DPHOME", "UCA", "4KEEP", "NFEASY/CARDS/CDN", "RANCHER", "RANCHER-PROD", "PGBOUNCER", "RANCHER-HMLG", "ALTERDATATECNOLOGIA", "RANCHER-PROD", "BACKUP", "ALTERDATA_PAYMENTS", "4KEEP", "PG", "ENCURTADOR_DE_LINK", "CLOUDMONITOR", "PROJETOS ART", "SITECORPORATIVO", "NEKIIT", "SPICEON", "WSHOPON"]
+tags = ["PROJECT1","PROJECT2", "PROJECT3", "PROJECT4"]
 
 #DB address
 db_address = '10.0.0.139'
